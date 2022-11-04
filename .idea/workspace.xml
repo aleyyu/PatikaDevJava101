@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4b9b77-2cec-4a9e-a49c-77be00fa3430" name="Changes" comment="Üçgen hesaplama ödevi">
-      <change afterPath="$PROJECT_DIR$/src/TaksimetreProgrami.java" afterDir="false" />
+    <list default="true" id="6a4b9b77-2cec-4a9e-a49c-77be00fa3430" name="Changes" comment="Taksimetre ödevi">
+      <change afterPath="$PROJECT_DIR$/src/DaireHesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,14 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TaksimetreProgrami">
+  <component name="RunManager" selected="Application.DaireHesaplama">
+    <configuration name="DaireHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaireHesaplama" />
+      <module name="PatikaDevJava101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HipotenusBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HipotenusBulma" />
       <module name="PatikaDevJava101" />
@@ -66,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaireHesaplama" />
         <item itemvalue="Application.TaksimetreProgrami" />
         <item itemvalue="Application.HipotenusBulma" />
         <item itemvalue="Application.KdvTutari" />
@@ -81,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667566861455</updated>
-      <workItem from="1667566863318" duration="3861000" />
+      <workItem from="1667566863318" duration="4737000" />
     </task>
     <task id="LOCAL-00001" summary="Not ortalama ödevi">
       <created>1667568054140</created>
@@ -104,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667569634218</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Taksimetre ödevi">
+      <created>1667570915590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667570915590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +140,7 @@
     <MESSAGE value="Not ortalama ödevi" />
     <MESSAGE value="KDV hesaplama ödevi" />
     <MESSAGE value="Üçgen hesaplama ödevi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Üçgen hesaplama ödevi" />
+    <MESSAGE value="Taksimetre ödevi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taksimetre ödevi" />
   </component>
 </project>
