@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4b9b77-2cec-4a9e-a49c-77be00fa3430" name="Changes" comment="Düzenleme2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DaireHesaplama.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HipotenusBulma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KdvTutari.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NotOrtalamasi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaksimetreProgrami.java" beforeDir="false" />
+    <list default="true" id="6a4b9b77-2cec-4a9e-a49c-77be00fa3430" name="Changes" comment="Düzenleme inş olur">
+      <change afterPath="$PROJECT_DIR$/src/DaireHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HipotenusBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KdvTutari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NotOrtalamasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaksimetreProgrami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VucutKitleIndex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667907605801</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Düzenleme inş olur">
+      <created>1667908124048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667908124048</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +179,7 @@
     <MESSAGE value="Daire hesaplama ödevi" />
     <MESSAGE value="Düzenleme" />
     <MESSAGE value="Düzenleme2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Düzenleme2" />
+    <MESSAGE value="Düzenleme inş olur" />
+    <option name="LAST_COMMIT_MESSAGE" value="Düzenleme inş olur" />
   </component>
 </project>
