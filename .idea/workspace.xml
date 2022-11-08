@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4b9b77-2cec-4a9e-a49c-77be00fa3430" name="Changes" comment="Taksimetre ödevi">
-      <change afterPath="$PROJECT_DIR$/src/DaireHesaplama.java" afterDir="false" />
+    <list default="true" id="6a4b9b77-2cec-4a9e-a49c-77be00fa3430" name="Changes" comment="Düzenleme2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DaireHesaplama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HipotenusBulma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KdvTutari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NotOrtalamasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaksimetreProgrami.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -28,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.DaireHesaplama">
     <configuration name="DaireHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireHesaplama" />
@@ -89,7 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667566861455</updated>
-      <workItem from="1667566863318" duration="4737000" />
+      <workItem from="1667566863318" duration="5477000" />
+      <workItem from="1667907441613" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="Not ortalama ödevi">
       <created>1667568054140</created>
@@ -119,7 +126,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667570915590</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Daire hesaplama ödevi">
+      <created>1667571770171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667571770171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Düzenleme">
+      <created>1667907509770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667907509770</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Düzenleme2">
+      <created>1667907605801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667907605801</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +169,9 @@
     <MESSAGE value="KDV hesaplama ödevi" />
     <MESSAGE value="Üçgen hesaplama ödevi" />
     <MESSAGE value="Taksimetre ödevi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Taksimetre ödevi" />
+    <MESSAGE value="Daire hesaplama ödevi" />
+    <MESSAGE value="Düzenleme" />
+    <MESSAGE value="Düzenleme2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Düzenleme2" />
   </component>
 </project>
